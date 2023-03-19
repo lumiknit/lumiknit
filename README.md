@@ -8,9 +8,10 @@ Hyogun Lee
 - **Programming language theory & type theory**
   - Praise the `λ` and combinators `\[T]/`
 - **Programming language theory & type theory**
-- Prefer functional languages anyway (ML, Haskell, OCaml)
-- Compiler and VM
-- C, Rust (for building interepreter :) )
+  - (Functional) compiler & VM
+  - Static analyzer
+- Prefer purely functional languages anyway (ML, Haskell, OCaml)
+- C, Rust (for building interpreter :) )
 - RISC-V
 - Emacs
   - But I currently use vscode...
