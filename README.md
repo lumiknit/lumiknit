@@ -16,6 +16,9 @@ Hyogun Lee
 - Emacs
   - But I currently use vscode...
 - Pretty fonts
+- And misc.
+  - GoLang, python and web for ML platform
+  - Docker & K8S Cluster & Helm
 
 ## Bio
 
