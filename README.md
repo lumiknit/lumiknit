@@ -6,14 +6,14 @@ Hyogun Lee
 
 ## Interests & Skills
 
-- **Algebra! (feat. Category Theory)**
-- **Programming language theory & type theory**
+- (ℤ<sub>7</sub>) **Algebra! (feat. Category Theory)**
+- (λ) **Programming language theory & type theory**
   - Praise the `λ` and combinators `\[T]/`
-- **Programming language theory & type theory**
   - (Functional) compiler & VM
   - Static analyzer
 - Prefer purely functional languages anyway (ML, Haskell, OCaml)
 - C, Rust (for building interpreter :) )
+- Super-lightweight something (e.g. lua, busybox, etc.)
 - RISC-V
 - Emacs
   - But I currently use vscode...
