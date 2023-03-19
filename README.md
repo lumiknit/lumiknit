@@ -6,6 +6,8 @@ Hyogun Lee
 
 - **Algebra! (feat. Category Theory)**
 - **Programming language theory & type theory**
+  - Praise the `λ` and combinators `\[T]/`
+- **Programming language theory & type theory**
 - Prefer functional languages anyway (ML, Haskell, OCaml)
 - Compiler and VM
 - C, Rust (for building interepreter :) )
