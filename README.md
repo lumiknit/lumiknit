@@ -1,6 +1,6 @@
 # lumiknit
 
-`[ˈluːmɪnɪt]`
+`[ˈluːmɪnɪt]`, 루미니트
 
 Hyogun Lee
 
