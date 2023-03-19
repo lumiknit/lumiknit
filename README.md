@@ -24,7 +24,7 @@ Hyogun Lee
 
 ## Bio
 
-- (Current!) **LINE+**
+- (2022 summer - Current!) **LINE+**
   - Developing MLOps Platform
 - (2017 spring - 2022 summer) **KAIST**
   - B.S. in Computer Science and Mathematics
