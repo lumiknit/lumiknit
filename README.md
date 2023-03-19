@@ -1,5 +1,7 @@
 # lumiknit
 
+`[ˈluːmɪnɪt]`
+
 Hyogun Lee
 
 ## Interests & Skills
@@ -32,9 +34,9 @@ Hyogun Lee
 
 - Lee, Sungho, **Hyogun Lee**, and Sukyoung Ryu. "Broadening horizons of multilingual static analysis: Semantic summary extraction from c code for jni program analysis." *Proceedings of the 35th IEEE/ACM International Conference on Automated Software Engineering.* 2020.
 
-## Github Summary(?)
+## Github Stats(?)
 
-[![lumiknit's GitHub stats](https://github-readme-stats.vercel.app/api?username=lumiknit&count_private=true&show_icons=true)](https://github.com/lumiknit/github-readme-stats)
+[![lumiknit's GitHub stats](https://github-readme-stats.vercel.app/api?username=lumiknit&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lumiknit&hide=jupyter%20notebook,tex,makefile,markdown&langs_count=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ㅇㅁㅇ
