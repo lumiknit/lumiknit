@@ -10,6 +10,9 @@ Hyogun Lee
 - Compiler and VM
 - C, Rust (for building interepreter :) )
 - RISC-V
+- Emacs
+  - But I currently use vscode...
+- Pretty fonts
 
 ## Bio
 
