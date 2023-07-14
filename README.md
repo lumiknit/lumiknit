@@ -25,7 +25,8 @@ Hyogun Lee
 ## Bio
 
 - (2022 summer - Current!) **LINE+**
-  - Developing MLOps Platform
+  - (2023-) Diffusion-based Image Generation
+  - (2022-) Developing MLOps Platform
 - (2017 spring - 2022 summer) **KAIST**
   - B.S. in Computer Science and Mathematics
   - GPA 4.0/4.3 = Summa Cum Laude
