@@ -12,12 +12,15 @@ Hyogun Lee
   - (Functional) compiler & VM
   - Static analyzer
 - Prefer purely functional languages anyway (ML, Haskell, OCaml)
+- [Graphical programming](https://github.com/lumiknit/kitl)
 - C, Rust (for building interpreter :) )
-- Super-lightweight something (e.g. lua, busybox, etc.)
+- Super-lightweight (small and fast..!) something (e.g. lua, busybox, etc.)
 - RISC-V
-- Emacs
-  - But I currently use vscode...
+- ~~Emacs~~
+  - My little finger tired.... currently using custom keymap [alty](https://github.com/lumiknit/alty-key-map)
 - Pretty fonts
+  - With ligatures..! ([pragmata](https://github.com/lumiknit/emacs-pragmatapro-ligatures), [iosevka](https://github.com/lumiknit/iosevka-lumi))
+  - With simple but awesome theme such as [newsprint](https://github.com/lumiknit/vscode-newsprint-theme)
 - And misc.
   - GoLang, python and web for ML platform
   - Docker & K8S Cluster & Helm
@@ -25,7 +28,8 @@ Hyogun Lee
 ## Bio
 
 - (2022 summer - Current!) **LINE+**
-  - (2023-) Diffusion-based Image Generation
+  - (2023-) ML/LLM App Server
+  - (2023) Diffusion-based Image Generation
   - (2022-) Developing MLOps Platform
 - (2017 spring - 2022 summer) **KAIST**
   - B.S. in Computer Science and Mathematics
